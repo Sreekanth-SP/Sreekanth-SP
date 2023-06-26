@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreekanth </h1>
 <!--- snake-->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  <img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"
        alt="snake" /></a>
 </div>
 <h3 align="center">A passionate backend developer from India</h3>
