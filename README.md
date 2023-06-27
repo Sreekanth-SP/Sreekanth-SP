@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekanth-sp&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanth-sp" /> </p>
 
-- 🔭 I’m currently working on **SpringBoot Applications**
+- 🔭 I’m currently working on **SpringBoot**
 
-- 🌱 I’m currently learning **Springboot, RestAPI**
+- 🌱 I’m currently learning **Spring,Hibernate,Mysql, RestAPI**
 
 - 💬 Ask me about **Java-DSA, Spring, API**
 
